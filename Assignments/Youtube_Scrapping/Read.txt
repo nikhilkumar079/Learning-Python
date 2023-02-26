@@ -1,1 +1,0 @@
-The Python program is created to scrape details from youtube.
