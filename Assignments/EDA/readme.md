@@ -1,11 +1,11 @@
-# Exploratory Data Analysis (EDA) Introduction
+## Exploratory Data Analysis (EDA) Introduction
 This is a brief guide on Exploratory Data Analysis (EDA) intended for beginners who are interested in analyzing data. EDA is a technique used by data scientists to summarize and visualize datasets to get insights and draw conclusions. It is the first step in any data analysis project and helps to identify patterns, outliers, and relationships between variables.
 Here, different data sets are used in order to understand EDA.
 
-# Getting Started
-Before starting EDA, it is essential to have a clear understanding of the dataset that you are working on. This includes understanding the data types, the distribution of data, and any missing values. It is also helpful to have a clear idea of the research questions you want to answer.
+## Getting Started
+Before starting EDA, it is essential to have a clear understanding of the dataset that you are working on. This includes understanding the data types, the distribution of data, and any missing values. It is also helpful to have a clear idea of the research questions you want to answer. You can find the Datasets used in the **Datasets** Folder.
 
-# EDA Techniques
+## EDA Techniques
 
 There are several techniques that can be used in EDA, including:
 
@@ -15,7 +15,7 @@ Bivariate analysis: This involves analyzing the relationship between two variabl
 
 Multivariate analysis: This involves analyzing more than two variables simultaneously. This can be done using correlation matrices, scatterplot matrices, and parallel coordinate plots.
 
-# EDA Tools
+## EDA Tools
 There are several tools that can be used for EDA, including:
 
 Python: Python is a popular programming language for data analysis and has several libraries, such as Pandas and Seaborn, which are useful for EDA.
@@ -26,5 +26,24 @@ Excel: Excel is a spreadsheet software that can be used for basic EDA.
 
 Tableau: Tableau is a data visualization software that can be used for advanced EDA.
 
-# Conclusion
+## EDA_1
+
+- Dataset: Wine Quality.
+- Dataset is cleaned and looked for the type of distribution different variables exhibiting.
+- PCA (principal component analysis) is performed to find out minimum number of features required for explaining 90 % variance in the data.
+
+## EDA_2
+
+- Datasets: Flight Price and Google Play Store
+- Flight Price: 
+   - Analyzed distribution of prices, and price w.r.to different airlines. 
+   - Looked into the peak months of travel.
+
+- Google Play Store
+  - Analyzed Ratings w.r.to different categories of apps.
+  - Looked into categories of apps with high prices.
+  - Identifying the relationship between App Size and Rating.
+  - Finding out top 10 popular apps.
+
+## Conclusion
 EDA is a crucial step in any data analysis project and helps to identify patterns, outliers, and relationships between variables. There are several techniques and tools that can be used for EDA, and the choice of technique and tool depends on the data and research questions.
